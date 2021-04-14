@@ -1,0 +1,6 @@
+
+
+## Run 
+```
+$ node cron.js 
+```

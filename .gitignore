@@ -1,0 +1,7 @@
+node_modules
+*.sh
+logs
+sync*
+mock
+test*
+service-account.json
